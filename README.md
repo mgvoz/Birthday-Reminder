@@ -1,4 +1,6 @@
 # Birthday-Reminder
 
 
-mg-birthday-reminders-app.netlify.app
+https://mg-birthday-reminders-app.netlify.app/
+
+*project idea by John Smilga
